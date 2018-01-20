@@ -37,8 +37,7 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
-    "sitemapSwitcher": "on",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-81188811-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-81188811-1');\r\n</script>"
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -150,7 +149,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img_20180109-174443-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1338.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -202,10 +201,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/20171112-141719-1399x1399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1400x1866.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -220,7 +220,7 @@
             }
           },
           "title": "About Me",
-          "text": "Hi! My name is Elijah Bosley and I'm a third year studying computer science at the University of Virginia. I enjoy creating cool projects and building things using awesome new technologies.<br><br>Some of my hobbies include ballroom dancing, hiking, and caving.",
+          "text": "Hi! My name is Elijah Bosley and I'm a third year studyingcomputer science at the University of Virginia. I enjoy creating cool projects and building things using awesome new technologies.<br><br>Some of my hobbies include ballroom dancing, hiking, and caving.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
