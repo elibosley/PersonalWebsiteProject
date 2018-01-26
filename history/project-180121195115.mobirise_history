@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "pictures.html",
+    "currentPage": "index.html",
     "versionFirst": "2.8.4",
     "versionPublish": "4.6.2",
     "name": "Elijah Bosley",
@@ -670,14 +670,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-6",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -707,23 +707,23 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-22",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#3C3C3C",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "title": "SENIOR PROJECT PRESENTATION &amp; PAPER",
           "text": "Scroll down to view the slideshow and see a web version of my paper",
@@ -753,11 +753,8 @@
           },
           "_params": {
             "autoplay": true,
-            "fullScreen": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#4c6972",
             "slides": [
               {
                 "active": false,
@@ -889,7 +886,10 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ]
+            ],
+            "fullScreen": false,
+            "bgColor": "#4c6972",
+            "showBullets": true
           },
           "_anchor": "slider-16",
           "articleLayout": false
@@ -929,7 +929,6 @@
           "_name": "slider2",
           "_params": {
             "autoplay": true,
-            "showBullets": true,
             "slides": [
               {
                 "active": false,
@@ -951,7 +950,8 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ]
+            ],
+            "showBullets": true
           },
           "_anchor": "slider2-26",
           "articleLayout": true
@@ -970,8 +970,8 @@
           "_name": "image2",
           "_anchor": "image2-28",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -1016,7 +1016,6 @@
           },
           "_params": {
             "autoplay": true,
-            "showBullets": true,
             "slides": [
               {
                 "active": false,
@@ -1048,7 +1047,8 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               }
-            ]
+            ],
+            "showBullets": true
           },
           "_anchor": "slider2-30",
           "articleLayout": true
@@ -1067,8 +1067,8 @@
           "_name": "image2",
           "_anchor": "image2-32",
           "_params": {
-            "showText": false,
-            "outside": false
+            "outside": false,
+            "showText": false
           },
           "media": {
             "image": {
@@ -1102,8 +1102,8 @@
           "_name": "image2",
           "_anchor": "image2-34",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -1137,8 +1137,8 @@
           "_name": "image2",
           "_anchor": "image2-36",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -1174,7 +1174,6 @@
           "_name": "slider2",
           "_params": {
             "autoplay": true,
-            "showBullets": true,
             "slides": [
               {
                 "active": false,
@@ -1216,7 +1215,8 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ]
+            ],
+            "showBullets": true
           },
           "_anchor": "slider2-38",
           "articleLayout": true
@@ -1237,7 +1237,6 @@
           "_name": "slider2",
           "_params": {
             "autoplay": true,
-            "showBullets": true,
             "slides": [
               {
                 "active": false,
@@ -1259,7 +1258,8 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ]
+            ],
+            "showBullets": true
           },
           "_anchor": "slider2-40",
           "articleLayout": true
@@ -1278,8 +1278,8 @@
           "_name": "image2",
           "_anchor": "image2-42",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -1313,8 +1313,8 @@
           "_name": "image2",
           "_anchor": "image2-44",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -1348,8 +1348,8 @@
           "_name": "image2",
           "_anchor": "image2-46",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -1376,13 +1376,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#444444",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<p>Copyright (c) 2016 Elijah Bosley.</p><br><p>Find me on&nbsp;<a href=\"https://github.com/elibosley\">Github</a>, <a href=\"https://www.linkedin.com/\">Linkedin</a>, or<a href=\"mailto:ekbosley@gmail.com\"> Email Me</a>.</p>"
         }
@@ -1498,14 +1498,14 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "showButtons": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
           },
           "logo": {
             "image": {
@@ -1535,23 +1535,23 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-135",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#3C3C3C",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
           },
           "title": "LED CONTROLLER",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
@@ -1577,23 +1577,23 @@
           },
           "_anchor": "header4-46",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-0071-3872x2592-73.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#4c6972",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true
           },
           "title": "<p><span style=\"font-family: inherit;\">ARDUINO LED CONTROLLER</span><br></p>",
           "text": "",
@@ -1622,8 +1622,8 @@
           "_name": "image2",
           "_anchor": "image2-54",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -1668,7 +1668,6 @@
           "_name": "slider2",
           "_params": {
             "autoplay": false,
-            "showBullets": true,
             "slides": [
               {
                 "active": false,
@@ -1690,7 +1689,8 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ]
+            ],
+            "showBullets": true
           },
           "_anchor": "slider2-59",
           "articleLayout": true
@@ -1712,13 +1712,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#444444",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<p>Copyright (c) 2016 Elijah Bosley.</p><br><p>Find me on&nbsp;<a href=\"https://github.com/elibosley\">Github</a>, <a href=\"https://www.linkedin.com/\">Linkedin</a>, or<a href=\"mailto:ekbosley@gmail.com\"> Email Me</a>.</p>"
         }
@@ -1742,23 +1742,23 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-53",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#4c6972",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
           },
           "title": "PICTURES OF MY DESKTOP",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
@@ -1783,14 +1783,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-6",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -1813,23 +1813,23 @@
           "_name": "header1",
           "_anchor": "header1-48",
           "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "center",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/computer001web-4010x2673-5.png",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#4c6972",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false
           },
           "title": "FULL-SCREEN HEADER",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
@@ -1856,25 +1856,26 @@
           "_name": "content5",
           "_anchor": "content5-57",
           "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButton": false,
+            "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#4c6972",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "darkBackground": true,
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.2,
             "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "showMeta": false,
+            "darkBackground": true
           },
           "title": "THE BUILD PROCESS",
           "meta": "",
@@ -1884,13 +1885,8 @@
         {
           "_name": "gallery1",
           "_params": {
-            "fullWidth": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#efefef",
             "images": [
               {
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-0078-3872x2592-45-2000x1339-81.jpg",
@@ -1932,7 +1928,12 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-0019-3872x2592-95.jpg",
                 "active": false
               }
-            ]
+            ],
+            "showText": false,
+            "bgColor": "#efefef",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
           },
           "_anchor": "gallery1-51",
           "articleLayout": false
@@ -1958,25 +1959,26 @@
           "_name": "content5",
           "_anchor": "content5-59",
           "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButton": false,
+            "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#4c6972",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "darkBackground": true,
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.2,
             "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "showMeta": false,
+            "darkBackground": true
           },
           "title": "FINAL BUILD PHOTOS",
           "meta": "",
@@ -1986,13 +1988,8 @@
         {
           "_name": "gallery1",
           "_params": {
-            "fullWidth": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#efefef",
             "images": [
               {
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-00711-3872x2592-58-2000x1339-62.jpg",
@@ -2029,7 +2026,12 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-0087-3872x2592-4.jpg",
                 "active": true
               }
-            ]
+            ],
+            "showText": false,
+            "bgColor": "#efefef",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
           },
           "_anchor": "gallery1-61",
           "articleLayout": false
@@ -2060,14 +2062,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-6",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -2097,23 +2099,23 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-134",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#3C3C3C",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
           },
           "title": "DOOR LOCK",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
@@ -2144,7 +2146,6 @@
           "_name": "slider2",
           "_params": {
             "autoplay": true,
-            "showBullets": true,
             "slides": [
               {
                 "active": false,
@@ -2176,7 +2177,8 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ]
+            ],
+            "showBullets": true
           },
           "_anchor": "slider2-71",
           "articleLayout": true
@@ -2188,13 +2190,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#444444",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<p>Copyright (c) 2016 Elijah Bosley.</p><br><p>Find me on&nbsp;<a href=\"https://github.com/elibosley\">Github</a>, <a href=\"https://www.linkedin.com/\">Linkedin</a>, or<a href=\"mailto:ekbosley@gmail.com\"> Email Me</a>.</p>"
         }
@@ -2225,14 +2227,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-6",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -2266,26 +2268,25 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-66",
           "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#f97352",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -2318,13 +2319,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#444444",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<p>Copyright (c) 2016 Elijah Bosley.</p><br><p>Find me on&nbsp;<a href=\"https://github.com/elibosley\">Github</a>, <a href=\"https://www.linkedin.com/\">Linkedin</a>, or<a href=\"mailto:ekbosley@gmail.com\"> Email Me</a>.</p>"
         }
@@ -2355,14 +2356,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-6",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -2392,23 +2393,23 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-133",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#3C3C3C",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
           },
           "title": "WATERCOOLED PC",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
@@ -2420,23 +2421,23 @@
           "_name": "header4",
           "_anchor": "header4-49",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/computer002web-3644x2429-64.png",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#4c6972",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
           },
           "title": "WATERCOOLING A DESKTOP",
           "text": "A journey in computer design.",
@@ -2461,27 +2462,27 @@
           "_name": "features1",
           "_anchor": "features1-13",
           "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-2216x592-95.png",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2216x592-95.png",
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
           },
           "headerAlign": "left",
           "header": "QUICK INFO",
@@ -2608,26 +2609,25 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-14",
           "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#3c3c3c",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -2661,13 +2661,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#444444",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<p>Copyright (c) 2016 Elijah Bosley.</p><br><p>Find me on&nbsp;<a href=\"https://github.com/elibosley\">Github</a>, <a href=\"https://www.linkedin.com/\">Linkedin</a>, or<a href=\"mailto:ekbosley@gmail.com\"> Email Me</a>.</p>"
         }
@@ -2697,14 +2697,14 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "showButtons": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
           },
           "logo": {
             "image": {
@@ -2734,23 +2734,23 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-132",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#3C3C3C",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
           },
           "title": "ANDROID APP DEVELOPMENT",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
@@ -2760,27 +2760,27 @@
           "_name": "features1",
           "_anchor": "features1-75",
           "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": false,
-            "showButtons": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#4c6972",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": true
           },
           "headerAlign": "left",
           "header": "DROP-DEAD EASY WEBSITE MAKER",
@@ -2915,14 +2915,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-6",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -2952,23 +2952,23 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-131",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#3C3C3C",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
           },
           "title": "MY FIRST ANDROID APP",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
@@ -2997,8 +2997,8 @@
           "_name": "image2",
           "_anchor": "image2-140",
           "_params": {
-            "showText": false,
-            "outside": false
+            "outside": false,
+            "showText": false
           },
           "media": {
             "image": {
@@ -3032,8 +3032,8 @@
           "_name": "image2",
           "_anchor": "image2-136",
           "_params": {
-            "showText": false,
-            "outside": false
+            "outside": false,
+            "showText": false
           },
           "media": {
             "image": {
@@ -3067,10 +3067,6 @@
           "_inherit": "gallery1",
           "_name": "gallery2",
           "_params": {
-            "fullWidth": true,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
             "images": [
               {
                 "caption": "Type caption here",
@@ -3096,7 +3092,11 @@
                 "image": "@PROJECT_PATH@/assets/images/screenshot-20160703-202208-2000x1125-36.png",
                 "active": false
               }
-            ]
+            ],
+            "showText": false,
+            "fullWidth": true,
+            "noGutter": true,
+            "showBullets": true
           },
           "_anchor": "gallery2-139",
           "articleLayout": true
@@ -3128,14 +3128,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-6",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -3165,23 +3165,23 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-140",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#3C3C3C",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
           },
           "title": "ANDROID THEMES TUTORIAL",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
@@ -3293,7 +3293,6 @@
           "_name": "slider2",
           "_params": {
             "autoplay": true,
-            "showBullets": true,
             "slides": [
               {
                 "active": false,
@@ -3328,7 +3327,8 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ]
+            ],
+            "showBullets": true
           },
           "_anchor": "slider2-90",
           "articleLayout": true
@@ -3357,8 +3357,8 @@
           "_name": "image2",
           "_anchor": "image2-96",
           "_params": {
-            "showText": false,
-            "outside": false
+            "outside": false,
+            "showText": false
           },
           "media": {
             "image": {
@@ -3392,8 +3392,8 @@
           "_name": "image2",
           "_anchor": "image2-97",
           "_params": {
-            "showText": false,
-            "outside": false
+            "outside": false,
+            "showText": false
           },
           "media": {
             "image": {
@@ -3427,8 +3427,8 @@
           "_name": "image2",
           "_anchor": "image2-99",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -3473,7 +3473,6 @@
           "_name": "slider2",
           "_params": {
             "autoplay": false,
-            "showBullets": true,
             "slides": [
               {
                 "active": true,
@@ -3497,7 +3496,8 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ]
+            ],
+            "showBullets": true
           },
           "_anchor": "slider2-102",
           "articleLayout": true
@@ -3518,7 +3518,6 @@
           "_name": "slider2",
           "_params": {
             "autoplay": false,
-            "showBullets": true,
             "slides": [
               {
                 "active": false,
@@ -3542,7 +3541,8 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ]
+            ],
+            "showBullets": true
           },
           "_anchor": "slider2-104",
           "articleLayout": true
@@ -3561,8 +3561,8 @@
           "_name": "image2",
           "_anchor": "image2-106",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -3607,7 +3607,6 @@
           "_name": "slider2",
           "_params": {
             "autoplay": false,
-            "showBullets": true,
             "slides": [
               {
                 "active": false,
@@ -3653,7 +3652,8 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ]
+            ],
+            "showBullets": true
           },
           "_anchor": "slider2-109",
           "articleLayout": true
@@ -3672,8 +3672,8 @@
           "_name": "image2",
           "_anchor": "image2-111",
           "_params": {
-            "showText": false,
-            "outside": false
+            "outside": false,
+            "showText": false
           },
           "media": {
             "image": {
@@ -3703,8 +3703,8 @@
           },
           "_anchor": "image2-112",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -3747,8 +3747,8 @@
           "_name": "image2",
           "_anchor": "image2-115",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -3782,8 +3782,8 @@
           "_name": "image2",
           "_anchor": "image2-117",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -3828,7 +3828,6 @@
           "_name": "slider2",
           "_params": {
             "autoplay": false,
-            "showBullets": true,
             "slides": [
               {
                 "active": true,
@@ -3852,7 +3851,8 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ]
+            ],
+            "showBullets": true
           },
           "_anchor": "slider2-120",
           "articleLayout": true
@@ -3871,8 +3871,8 @@
           "_name": "image2",
           "_anchor": "image2-122",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -3915,8 +3915,8 @@
           "_name": "image2",
           "_anchor": "image2-125",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -3940,8 +3940,8 @@
           "_name": "image2",
           "_anchor": "image2-126",
           "_params": {
-            "showText": true,
-            "outside": false
+            "outside": false,
+            "showText": true
           },
           "media": {
             "image": {
@@ -3984,10 +3984,6 @@
           "_inherit": "gallery1",
           "_name": "gallery2",
           "_params": {
-            "fullWidth": true,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
             "images": [
               {
                 "caption": "Type caption here",
@@ -4013,7 +4009,11 @@
                 "image": "@PROJECT_PATH@/assets/images/screenshot-20160704-163250-1080x1920-84.png",
                 "active": false
               }
-            ]
+            ],
+            "showText": false,
+            "fullWidth": true,
+            "noGutter": true,
+            "showBullets": true
           },
           "_anchor": "gallery2-129",
           "articleLayout": true
@@ -4031,23 +4031,23 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-130",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
           },
           "title": "GITHUB REPO FOR THIS PROJECT",
           "text": "",
@@ -4060,13 +4060,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#444444",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<p>Copyright (c) 2016 Elijah Bosley.</p><br><p>Find me on&nbsp;<a href=\"https://github.com/elibosley\">Github</a>, <a href=\"https://www.linkedin.com/\">Linkedin</a>, or<a href=\"mailto:ekbosley@gmail.com\"> Email Me</a>.</p>"
         }
