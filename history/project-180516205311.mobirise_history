@@ -23,7 +23,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 95,
-    "versionPublish": "4.7.2",
+    "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "publishFtpPath": "public_html",
@@ -170,7 +170,7 @@
           },
           "title": "Elijah Bosley<br><br><br><br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">Resume</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://github.com/elibosley\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Github</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">My Resume</a> ",
           "_styles": {
             ".mbr-section-title": {
               "font-size": "46px"
@@ -213,7 +213,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/00100dportrait_00100_burst20180510201847419_cover-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20171112-141719-1399x1399.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -231,7 +231,7 @@
             }
           },
           "title": "About Me",
-          "text": "Hi! My name is Elijah Bosley and I'm a third year studying computer science at the University of Virginia. I enjoy creating cool projects and building things using awesome new technologies.<br><br>In my free time I'm dancing, in a cave spelunking, or enjoying nature.",
+          "text": "Hi! My name is Elijah Bosley and I'm a third year studying computer science at the University of Virginia. I enjoy creating cool projects and building things using awesome new technologies.<br><br>Some of my hobbies include ballroom dancing, hiking, and caving.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -313,7 +313,7 @@
           "title3": "Email Me",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Contact me by email!",
-          "button3": "<a data-app-btn=\"true\" href=\"mailto:eli@elijahbosley.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Email Me</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"mailto:eli@elijahbosley.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "active": true,
